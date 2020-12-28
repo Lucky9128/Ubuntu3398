@@ -1,0 +1,13 @@
+F S   UID   PID  PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+4 S  1000  1307  1305  4  80   0 - 125525 ep_pol tty2    00:00:11 Xorg
+0 S  1000  1469  1305  0  80   0 - 127341 poll_s tty2    00:00:00 gnome-session-b
+0 Z  1000  1567  1469  0  80   0 -     0 -      tty2     00:00:00 xbrlapi <defunct>
+0 S  1000  1625  1469  7  80   0 - 653658 poll_s tty2    00:00:16 gnome-shell
+0 S  1000  1651  1625  0  80   0 - 79727 poll_s tty2     00:00:00 ibus-daemon
+0 S  1000  1655  1651  0  80   0 - 61093 poll_s tty2     00:00:00 ibus-dconf
+0 S  1000  1656  1651  0  80   0 - 73897 poll_s tty2     00:00:00 ibus-extension-
+0 S  1000  1658     1  0  80   0 - 54664 poll_s tty2     00:00:00 ibus-x11
+0 S  1000  1758  1469  0  80   0 - 80688 poll_s tty2     00:00:00 gsd-smartcard
+0 S  1000  1759  1469  0  80   0 - 91655 poll_s tty2     00:00:00 gsd-keyboard
+0 S  1000  1762  1469  0  80   0 - 92293 poll_s tty2     00:00:00 gsd-power
+0 S  1000  1763  1469  0  80   0 - 60941 poll_s tty2     00:00:00 gs1

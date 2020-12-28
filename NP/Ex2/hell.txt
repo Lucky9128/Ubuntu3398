@@ -1,0 +1,28 @@
+  PID TTY          TIME CMD
+ 1307 tty2     00:00:15 Xorg
+ 1469 tty2     00:00:00 gnome-session-b
+ 1567 tty2     00:00:00 xbrlapi <defunct>
+ 1625 tty2     00:00:21 gnome-shell
+ 1651 tty2     00:00:00 ibus-daemon
+ 1655 tty2     00:00:00 ibus-dconf
+ 1656 tty2     00:00:00 ibus-extension-
+ 1658 tty2     00:00:00 ibus-x11
+ 1758 tty2     00:00:00 gsd-smartcard
+ 1759 tty2     00:00:00 gsd-keyboard
+ 1762 tty2     00:00:00 gsd-power
+ 1763 tty2     00:00:00 gsd-a11y-settin
+ 1764 tty2     00:00:00 gsd-sound
+ 1765 tty2     00:00:00 gsd-media-keys
+ 1766 tty2     00:00:00 gsd-print-notif
+ 1767 tty2     00:00:00 gsd-clipboard
+ 1768 tty2     00:00:00 gsd-wacom
+ 1771 tty2     00:00:00 gsd-mouse
+ 1772 tty2     00:00:00 gsd-rfkill
+ 1773 tty2     00:00:00 gsd-color
+ 1774 tty2     00:00:00 gsd-xsettings
+ 1777 tty2     00:00:00 gsd-screensaver
+ 1778 tty2     00:00:00 gsd-datetime
+ 1781 tty2     00:00:00 gsd-sharing
+ 1782 tty2     00:00:00 gsd-housekeepin
+ 1820 tty2     00:00:00 gsd-printer
+ 1859 tty2     001
